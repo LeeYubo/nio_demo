@@ -1,4 +1,4 @@
-package com.lyb.nio;
+package com.lyb.nio.buffer;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
